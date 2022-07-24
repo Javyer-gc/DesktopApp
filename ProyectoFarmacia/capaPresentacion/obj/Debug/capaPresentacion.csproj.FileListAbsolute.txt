@@ -1,0 +1,68 @@
+C:\Users\EliseoArturo\source\repos\ProyectoFarmacia\capaPresentacion\obj\Debug\capaPresentacion.csprojAssemblyReference.cache
+C:\Users\EliseoArturo\source\repos\ProyectoFarmacia\capaPresentacion\obj\Debug\capaPresentacion.frmLogin.resources
+C:\Users\EliseoArturo\source\repos\ProyectoFarmacia\capaPresentacion\obj\Debug\capaPresentacion.frmPrincipal.resources
+C:\Users\EliseoArturo\source\repos\ProyectoFarmacia\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
+C:\Users\EliseoArturo\source\repos\ProyectoFarmacia\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.cache
+C:\Users\EliseoArturo\source\repos\ProyectoFarmacia\capaPresentacion\bin\Debug\capaPresentacion.exe.config
+C:\Users\EliseoArturo\source\repos\ProyectoFarmacia\capaPresentacion\bin\Debug\capaPresentacion.exe
+C:\Users\EliseoArturo\source\repos\ProyectoFarmacia\capaPresentacion\bin\Debug\capaPresentacion.pdb
+C:\Users\EliseoArturo\source\repos\ProyectoFarmacia\capaPresentacion\bin\Debug\capaDominio.dll
+C:\Users\EliseoArturo\source\repos\ProyectoFarmacia\capaPresentacion\bin\Debug\capaSoporte.dll
+C:\Users\EliseoArturo\source\repos\ProyectoFarmacia\capaPresentacion\bin\Debug\capaAccesoDatos.dll
+C:\Users\EliseoArturo\source\repos\ProyectoFarmacia\capaPresentacion\bin\Debug\capaDominio.pdb
+C:\Users\EliseoArturo\source\repos\ProyectoFarmacia\capaPresentacion\bin\Debug\capaSoporte.pdb
+C:\Users\EliseoArturo\source\repos\ProyectoFarmacia\capaPresentacion\bin\Debug\capaAccesoDatos.pdb
+C:\Users\EliseoArturo\source\repos\ProyectoFarmacia\capaPresentacion\obj\Debug\capaPresentacion.csproj.CopyComplete
+C:\Users\EliseoArturo\source\repos\ProyectoFarmacia\capaPresentacion\obj\Debug\capaPresentacion.exe
+C:\Users\EliseoArturo\source\repos\ProyectoFarmacia\capaPresentacion\obj\Debug\capaPresentacion.pdb
+C:\Users\EliseoArturo\source\repos\ProyectoFarmacia\capaPresentacion\bin\Debug\System.Data.SqlClient.dll
+C:\Users\EliseoArturo\source\repos\ProyectoFarmacia\capaPresentacion\bin\Debug\System.Data.SqlClient.xml
+C:\Users\EliseoArturo\source\repos\ProyectoFarmacia\capaPresentacion\obj\Debug\capaPresentacion.Ajustes.frmEmpleados.resources
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaPresentacion\bin\Debug\capaPresentacion.exe.config
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaPresentacion\bin\Debug\capaPresentacion.exe
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaPresentacion\bin\Debug\capaPresentacion.pdb
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaPresentacion\bin\Debug\capaDominio.dll
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaPresentacion\bin\Debug\capaSoporte.dll
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaPresentacion\bin\Debug\System.Data.SqlClient.dll
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaPresentacion\bin\Debug\capaAccesoDatos.dll
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaPresentacion\bin\Debug\capaDominio.pdb
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaPresentacion\bin\Debug\capaSoporte.pdb
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaPresentacion\bin\Debug\System.Data.SqlClient.xml
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaPresentacion\bin\Debug\capaAccesoDatos.pdb
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaPresentacion\obj\Debug\capaPresentacion.csprojAssemblyReference.cache
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaPresentacion\obj\Debug\capaPresentacion.Ajustes.frmEmpleados.resources
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaPresentacion\obj\Debug\capaPresentacion.frmLogin.resources
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaPresentacion\obj\Debug\capaPresentacion.frmPrincipal.resources
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.cache
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaPresentacion\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaPresentacion\obj\Debug\capaPresentacion.csproj.CopyComplete
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaPresentacion\obj\Debug\capaPresentacion.exe
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaPresentacion\obj\Debug\capaPresentacion.pdb
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaPresentacion\obj\Debug\capaPresentacion.Inventario.frmInventario.resources
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaPresentacion\bin\Debug\MZControls.dll
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaPresentacion\obj\Debug\capaPresentacion.Medicamentos.frmMedicamentos.resources
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaPresentacion\bin\Debug\capaPresentacion.exe.config
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaPresentacion\bin\Debug\capaPresentacion.exe
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaPresentacion\bin\Debug\capaPresentacion.pdb
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaPresentacion\bin\Debug\capaDominio.dll
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaPresentacion\bin\Debug\capaSoporte.dll
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaPresentacion\bin\Debug\MZControls.dll
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaPresentacion\bin\Debug\System.Data.SqlClient.dll
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaPresentacion\bin\Debug\capaAccesoDatos.dll
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaPresentacion\bin\Debug\capaDominio.pdb
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaPresentacion\bin\Debug\capaSoporte.pdb
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaPresentacion\bin\Debug\System.Data.SqlClient.xml
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaPresentacion\bin\Debug\capaAccesoDatos.pdb
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaPresentacion\obj\Debug\capaPresentacion.csprojAssemblyReference.cache
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaPresentacion\obj\Debug\capaPresentacion.Ajustes.frmEmpleados.resources
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaPresentacion\obj\Debug\capaPresentacion.frmLogin.resources
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaPresentacion\obj\Debug\capaPresentacion.frmPrincipal.resources
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaPresentacion\obj\Debug\capaPresentacion.Inventario.frmInventario.resources
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaPresentacion\obj\Debug\capaPresentacion.Medicamentos.frmMedicamentos.resources
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.cache
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaPresentacion\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaPresentacion\obj\Debug\capaPresentacion.csproj.CopyComplete
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaPresentacion\obj\Debug\capaPresentacion.exe
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaPresentacion\obj\Debug\capaPresentacion.pdb

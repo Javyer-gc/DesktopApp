@@ -1,0 +1,26 @@
+C:\Users\EliseoArturo\source\repos\ProyectoFarmacia\capaSoporte\bin\Debug\netstandard2.0\capaSoporte.deps.json
+C:\Users\EliseoArturo\source\repos\ProyectoFarmacia\capaSoporte\bin\Debug\netstandard2.0\capaSoporte.dll
+C:\Users\EliseoArturo\source\repos\ProyectoFarmacia\capaSoporte\bin\Debug\netstandard2.0\capaSoporte.pdb
+C:\Users\EliseoArturo\source\repos\ProyectoFarmacia\capaSoporte\obj\Debug\netstandard2.0\capaSoporte.csprojAssemblyReference.cache
+C:\Users\EliseoArturo\source\repos\ProyectoFarmacia\capaSoporte\obj\Debug\netstandard2.0\capaSoporte.AssemblyInfoInputs.cache
+C:\Users\EliseoArturo\source\repos\ProyectoFarmacia\capaSoporte\obj\Debug\netstandard2.0\capaSoporte.AssemblyInfo.cs
+C:\Users\EliseoArturo\source\repos\ProyectoFarmacia\capaSoporte\obj\Debug\netstandard2.0\capaSoporte.dll
+C:\Users\EliseoArturo\source\repos\ProyectoFarmacia\capaSoporte\obj\Debug\netstandard2.0\capaSoporte.pdb
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaSoporte\bin\Debug\netstandard2.0\capaSoporte.deps.json
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaSoporte\bin\Debug\netstandard2.0\capaSoporte.dll
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaSoporte\bin\Debug\netstandard2.0\capaSoporte.pdb
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaSoporte\obj\Debug\netstandard2.0\capaSoporte.csprojAssemblyReference.cache
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaSoporte\obj\Debug\netstandard2.0\capaSoporte.csproj.CoreCompileInputs.cache
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaSoporte\obj\Debug\netstandard2.0\capaSoporte.AssemblyInfoInputs.cache
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaSoporte\obj\Debug\netstandard2.0\capaSoporte.AssemblyInfo.cs
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaSoporte\obj\Debug\netstandard2.0\capaSoporte.dll
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaSoporte\obj\Debug\netstandard2.0\capaSoporte.pdb
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaSoporte\bin\Debug\netstandard2.0\capaSoporte.deps.json
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaSoporte\bin\Debug\netstandard2.0\capaSoporte.dll
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaSoporte\bin\Debug\netstandard2.0\capaSoporte.pdb
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaSoporte\obj\Debug\netstandard2.0\capaSoporte.csprojAssemblyReference.cache
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaSoporte\obj\Debug\netstandard2.0\capaSoporte.csproj.CoreCompileInputs.cache
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaSoporte\obj\Debug\netstandard2.0\capaSoporte.AssemblyInfoInputs.cache
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaSoporte\obj\Debug\netstandard2.0\capaSoporte.AssemblyInfo.cs
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaSoporte\obj\Debug\netstandard2.0\capaSoporte.dll
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaSoporte\obj\Debug\netstandard2.0\capaSoporte.pdb

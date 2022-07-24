@@ -1,0 +1,35 @@
+C:\Users\EliseoArturo\source\repos\ProyectoFarmacia\capaAccesoDatos\bin\Debug\netstandard2.0\capaSoporte.dll
+C:\Users\EliseoArturo\source\repos\ProyectoFarmacia\capaAccesoDatos\obj\Debug\netstandard2.0\capaAccesoDatos.csprojAssemblyReference.cache
+C:\Users\EliseoArturo\source\repos\ProyectoFarmacia\capaAccesoDatos\obj\Debug\netstandard2.0\capaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\EliseoArturo\source\repos\ProyectoFarmacia\capaAccesoDatos\obj\Debug\netstandard2.0\capaAccesoDatos.AssemblyInfo.cs
+C:\Users\EliseoArturo\source\repos\ProyectoFarmacia\capaAccesoDatos\bin\Debug\netstandard2.0\capaAccesoDatos.deps.json
+C:\Users\EliseoArturo\source\repos\ProyectoFarmacia\capaAccesoDatos\bin\Debug\netstandard2.0\capaAccesoDatos.dll
+C:\Users\EliseoArturo\source\repos\ProyectoFarmacia\capaAccesoDatos\bin\Debug\netstandard2.0\capaAccesoDatos.pdb
+C:\Users\EliseoArturo\source\repos\ProyectoFarmacia\capaAccesoDatos\bin\Debug\netstandard2.0\capaSoporte.pdb
+C:\Users\EliseoArturo\source\repos\ProyectoFarmacia\capaAccesoDatos\obj\Debug\netstandard2.0\capaAccesoDatos.csproj.CopyComplete
+C:\Users\EliseoArturo\source\repos\ProyectoFarmacia\capaAccesoDatos\obj\Debug\netstandard2.0\capaAccesoDatos.dll
+C:\Users\EliseoArturo\source\repos\ProyectoFarmacia\capaAccesoDatos\obj\Debug\netstandard2.0\capaAccesoDatos.pdb
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaAccesoDatos\bin\Debug\netstandard2.0\capaAccesoDatos.deps.json
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaAccesoDatos\bin\Debug\netstandard2.0\capaAccesoDatos.dll
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaAccesoDatos\bin\Debug\netstandard2.0\capaAccesoDatos.pdb
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaAccesoDatos\bin\Debug\netstandard2.0\capaSoporte.dll
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaAccesoDatos\bin\Debug\netstandard2.0\capaSoporte.pdb
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaAccesoDatos\obj\Debug\netstandard2.0\capaAccesoDatos.csprojAssemblyReference.cache
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaAccesoDatos\obj\Debug\netstandard2.0\capaAccesoDatos.csproj.CoreCompileInputs.cache
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaAccesoDatos\obj\Debug\netstandard2.0\capaAccesoDatos.AssemblyInfoInputs.cache
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaAccesoDatos\obj\Debug\netstandard2.0\capaAccesoDatos.AssemblyInfo.cs
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaAccesoDatos\obj\Debug\netstandard2.0\capaAccesoDatos.csproj.CopyComplete
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaAccesoDatos\obj\Debug\netstandard2.0\capaAccesoDatos.dll
+D:\Javier\Google Drive\Administración de datos\Proyecto\ProyectoFarmacia\capaAccesoDatos\obj\Debug\netstandard2.0\capaAccesoDatos.pdb
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaAccesoDatos\bin\Debug\netstandard2.0\capaAccesoDatos.deps.json
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaAccesoDatos\bin\Debug\netstandard2.0\capaAccesoDatos.dll
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaAccesoDatos\bin\Debug\netstandard2.0\capaAccesoDatos.pdb
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaAccesoDatos\bin\Debug\netstandard2.0\capaSoporte.dll
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaAccesoDatos\bin\Debug\netstandard2.0\capaSoporte.pdb
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaAccesoDatos\obj\Debug\netstandard2.0\capaAccesoDatos.csprojAssemblyReference.cache
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaAccesoDatos\obj\Debug\netstandard2.0\capaAccesoDatos.csproj.CoreCompileInputs.cache
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaAccesoDatos\obj\Debug\netstandard2.0\capaAccesoDatos.AssemblyInfoInputs.cache
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaAccesoDatos\obj\Debug\netstandard2.0\capaAccesoDatos.AssemblyInfo.cs
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaAccesoDatos\obj\Debug\netstandard2.0\capaAccesoDatos.csproj.CopyComplete
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaAccesoDatos\obj\Debug\netstandard2.0\capaAccesoDatos.dll
+D:\Javier\Descargas\base\ProyectoFarmacia_casifinal\ProyectoFarmacia\capaAccesoDatos\obj\Debug\netstandard2.0\capaAccesoDatos.pdb
